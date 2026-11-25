@@ -1,0 +1,15 @@
+{
+  "name": "Kế hoạch thu chi tiền tiêu vặt của tôi",
+  "short_name": "Thu Chi Tiêu Vặt",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#B3E5FC",
+  "theme_color": "#C3B1FF",
+  "lang": "vi",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
